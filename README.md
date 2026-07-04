@@ -84,14 +84,6 @@ Building scalable web applications, AI-powered systems, and real-time collaborat
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=narula1304&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narula1304&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img width="70%" src="https://streak-stats.demolab.com?user=narula1304&theme=tokyonight&hide_border=true"/>
 
 </p>
