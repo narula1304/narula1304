@@ -80,17 +80,27 @@ Building scalable web applications, AI-powered systems, and real-time collaborat
 
 ---
 
-## 📊 GitHub Statistics
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=narula1304&theme=tokyonight&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=narula1304&theme=tokyo-night"/>
 
 </p>
 
 <p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=narula1304&theme=tokyo-night"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=narula1304&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=narula1304&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=narula1304&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=narula1304&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
 
