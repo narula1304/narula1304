@@ -69,3 +69,28 @@ I enjoy building scalable full-stack applications, real-time collaborative syste
 <p>
 <img src="https://skillicons.dev/icons?i=git,docker,linux,redis"/>
 </p>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=narula1304&show_icons=true&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=narula1304&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=narula1304&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=narula1304&theme=tokyo-night"/>
+
+</p>
