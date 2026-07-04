@@ -144,12 +144,4 @@ Building scalable web applications, AI-powered systems, and real-time collaborat
 
 </p>
 
----
 
-<h3 align="center">
-
-⭐ Thanks for visiting my profile!
-
-I'm always excited to collaborate on impactful projects and learn new technologies.
-
-</h3>
