@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prince Narula</h1>
 
-<!--
-**narula1304/narula1304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Developer • AI/ML Enthusiast • Problem Solver
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I enjoy building scalable full-stack applications, real-time collaborative systems, and AI-powered products that solve real-world problems.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+🌱 Currently learning <b>System Design • Agentic AI • Distributed Systems</b>
+</p>
+
+<p align="center">
+💻 Building production-grade software one project at a time.
+</p>
