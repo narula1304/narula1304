@@ -77,7 +77,10 @@ Backend-focused developer building real-time and AI-powered systems — from dis
 # 💡 Coding Profiles
 
 <p align="center">
-<img src="https://leetcode-stats-nikhilbadyal.vercel.app/api?username=prince_9904&theme=dark" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/prince_9904?theme=dark&font=Baloo+2&ext=activity" alt="LeetCode Stats"/>
+</p>
+<p align="center">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=23bcs203&theme=dark" alt="Codeforces Stats"/>
 </p>
 <p align="center">
 <a href="https://leetcode.com/u/prince_9904/">
